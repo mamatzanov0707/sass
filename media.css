@@ -1,0 +1,18 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+}
+@media (max-width: 1024px) {
+  #header .nav--link {
+    display: none;
+  }
+  #car .cart__cab {
+    flex-wrap: wrap;
+  }
+  #desen .desi--sit {
+    font-size: 20px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
